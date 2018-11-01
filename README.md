@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeFest
 Post-hurricane real estate analysis for Earth Lab Code Fest.
 
@@ -14,3 +15,10 @@ Hurricane Wilma (Cat 3) - October 24th, 2005 - South Florida
 Hurricane Ike (Cat 2) - September 13, 2008 - Houston, Galveston Texas
 Hurricae Irene (Cat 1) - August 27, 2011 - North Carolina
 Hurricane Sandy (Cat 1) - October 29th, 2011 - New Jersey, New York
+=======
+# CU Earth Lab - CodeFest
+November 1, 2018
+Repository created by Anna Braswell (anna.braswell@colorado.edu)
+
+This repository contains data and code for the post-hurricane real estate analysis for Earth Lab Code Fest.
+>>>>>>> 6a67c191433856d18922f8fe82e43822b4d4411b
